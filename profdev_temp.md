@@ -8,10 +8,10 @@ These are hour-long Crowdcast events with a panel of speakers that will discuss 
 |   **2.1: Data management**| Dimitri Yatsenko (DataJoint), Edgar Walker (DataJoint), Ben Dichter (NWB)   |Software tools for efficient management, analysis, and sharing of experimental data. 
 |    **2.2: Data management**|  Russ Poldrack (Stanford) | Efficient data management and sharing strategies focusing on fMRI data.                                                  |
 |   **3.1 Open Science**  |  Nici Pfeiffer (COS), Mark Musen (Stanford)   | Discussion of tools to improve accessibility and transparency of scientific data and analysis.                                    
-|   **4.1 Visualization**  |  Colin Prahl (Artist), Amy Robinson Stirling (Eyewire)   | Discussion of tools to improve accessibility and transparency of scientific data and analysis.             
+|   **4.1 Visualization**  |  Colin Prahl (Artist), Amy Robinson Stirling (Eyewire)   | Presentation on scientific visualization, ranging from scientific data visulaziation to visualization in scientific communication and science-inspired art.           
 |    **5.1 Publishing**  |  Brett Mensh   | The art and logic of writing peer-reviewed journal papers.
-|    **6.1 Philosophy**  |  Lisa Mirachi (U Penn)  | 
-|    **6.2 Philosophy**  |  Lisa Mirachi (U Penn)  | 
+|    **6.1 Philosophy**  |  Lisa Mirachi (U Penn)  |  What is the difference between “what a cognitive agent does” and “what processes happen inside an agent”? Lisa Miracchi, philosophy professor at UPenn, talks about how this distinction relates to selecting models.
+|    **6.2 Philosophy**  |  Lisa Mirachi (U Penn)  | What is the difference between “the content of representations” and “the content of perceptions and thoughts”? Lisa Miracchi, philosophy professor at UPenn, talks about Marr’s Computational Level and how these questions relate to what robots might internally represent
 |    **7.1 Job fair**  |  Facebook Reality Labs | Research careers at FRL, a  division of Facebook focused on creating the future of virtual and augmented reality. 
 
 
